@@ -457,7 +457,7 @@ const u8 gTypeNames[NUMBER_OF_MON_TYPES][TYPE_NAME_LENGTH + 1] =
     [TYPE_GROUND] = _("GROUND"),
     [TYPE_ROCK] = _("ROCK"),
     [TYPE_BUG] = _("BUG"),
-    [TYPE_GHOST] = _("GHOST"),
+    [TYPE_DARK] = _("DARK"),
     [TYPE_STEEL] = _("STEEL"),
     [TYPE_MYSTERY] = _("???"),
     [TYPE_FIRE] = _("FIRE"),
@@ -466,8 +466,8 @@ const u8 gTypeNames[NUMBER_OF_MON_TYPES][TYPE_NAME_LENGTH + 1] =
     [TYPE_ELECTRIC] = _("ELECTR"),
     [TYPE_PSYCHIC] = _("PSYCHC"),
     [TYPE_ICE] = _("ICE"),
-    [TYPE_DRAGON] = _("DRAGON"),
-    [TYPE_DARK] = _("DARK"),
+    [TYPE_DRAGON] = _("DRAGON"),    
+    [TYPE_GHOST] = _("GHOST"),
 };
 
 // This is a factor in how much money you get for beating a trainer.
